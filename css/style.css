@@ -24,10 +24,10 @@ font-family: 'comfortaa', cursive;
     margin: 0px;
 }
 
-/*#col1{
+#col1{
     padding: 0px;
-    padding-left: 30px;
-}*/
+    /* padding-left: 30px; */
+}
 #col3{
     padding: 0px;
 }
@@ -51,7 +51,7 @@ font-family: 'comfortaa', cursive;
 }
 .footer {
     background: #061D25;
-    padding: 10px 0;
+    padding: 10px;
     
   }
 .footer a {
@@ -61,9 +61,9 @@ font-family: 'comfortaa', cursive;
     border-right: 1px solid #70726F;
     transition: all .5s ease;
   }
-.footer a:first-child {
+/*.footer a:first-child {
     border-left: 1px solid #70726F;
-  }
+  }*/
 .footer a:hover {
     color: white;
   }
